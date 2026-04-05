@@ -2,7 +2,7 @@
 
 ## 📌 About
 
-This repository contains all the **Web Technology (WT) Lab Exercises** completed as part of the **B.Tech Computer Science and Engineering (2023)** curriculum at JAIN University.
+This repository contains all the **Web Technology (WT) Lab Exercises** completed as part of the **B.Tech Computer Science and Engineering
 
 It includes basic to intermediate web development concepts using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
